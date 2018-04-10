@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private Button tryMeButton;
     private int[] colors;
 
+    //ahahahaha
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
